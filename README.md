@@ -29,3 +29,6 @@ https://martinfowler.com/articles/harness-engineering.html
 ## Harness engineering 
 https://mp.weixin.qq.com/s/JPhcyDc4JwRmnMQ-76A-FQ
 
+
+### Defination 
+AI Harness Engineering refers to building a complete set of standardized, enforceable runtime guardrails, validation, governance and operational systems wrapped around LLMs and Agents to deliver stable, secure, compliant and cost-effective automated business execution at enterprise scale.
